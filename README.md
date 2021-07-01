@@ -1,2 +1,1 @@
-# app-foxx-dev
-Created with CodeSandbox
+# Foxx Vue Element Admin
